@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dashboard", "Dashboard\Dashboard.csproj", "{138E3551-7A02-4CBE-A85E-CE61676F9FC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpdeskKPIControl", "HelpdeskKPIControl\HelpdeskKPIControl.csproj", "{CE773CED-D3BC-41A0-AB31-9C948C64D620}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGaugeApp", "AGaugeApp\AGaugeApp.csproj", "{FB89F830-9695-466E-B495-6D7E1E3AD198}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpPerfChart", "..\SpPerfChart\SpPerfChart.csproj", "{F2FF6C46-A791-4CAE-AB46-BD1A37F3FCD7}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://srv-denali.tensing.local:8080/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AGaugeApp\\AGaugeApp.csproj
+		SccProjectName1 = AGaugeApp
+		SccLocalPath1 = AGaugeApp
+		SccProjectUniqueName2 = Dashboard\\Dashboard.csproj
+		SccProjectName2 = Dashboard
+		SccLocalPath2 = Dashboard
+		SccProjectUniqueName3 = HelpdeskKPIControl\\HelpdeskKPIControl.csproj
+		SccProjectName3 = HelpdeskKPIControl
+		SccLocalPath3 = HelpdeskKPIControl
+		SccProjectUniqueName4 = ..\\SpPerfChart\\SpPerfChart.csproj
+		SccProjectName4 = ../SpPerfChart
+		SccLocalPath4 = ..\\SpPerfChart
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{138E3551-7A02-4CBE-A85E-CE61676F9FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138E3551-7A02-4CBE-A85E-CE61676F9FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138E3551-7A02-4CBE-A85E-CE61676F9FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138E3551-7A02-4CBE-A85E-CE61676F9FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE773CED-D3BC-41A0-AB31-9C948C64D620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE773CED-D3BC-41A0-AB31-9C948C64D620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE773CED-D3BC-41A0-AB31-9C948C64D620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE773CED-D3BC-41A0-AB31-9C948C64D620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB89F830-9695-466E-B495-6D7E1E3AD198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB89F830-9695-466E-B495-6D7E1E3AD198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB89F830-9695-466E-B495-6D7E1E3AD198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB89F830-9695-466E-B495-6D7E1E3AD198}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2FF6C46-A791-4CAE-AB46-BD1A37F3FCD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2FF6C46-A791-4CAE-AB46-BD1A37F3FCD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2FF6C46-A791-4CAE-AB46-BD1A37F3FCD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2FF6C46-A791-4CAE-AB46-BD1A37F3FCD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
